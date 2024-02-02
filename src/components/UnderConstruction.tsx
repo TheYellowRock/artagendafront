@@ -14,7 +14,7 @@ export default function UnderConstruction() {
           className="mx-auto"
         />
       </div>
-      <div className="flex flex-col w-full mt-40">
+      <div className="flex flex-col w-full mt-30">
         <div className="mx-auto font-bold text-2xl"> Website under construction </div>
         <div className="mx-auto font-bold text-2xl"> Coming in no time...</div>
       </div>
