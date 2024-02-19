@@ -19,7 +19,7 @@ export default function ActorsGrid() {
               height={actor.images.at(0)?.height}
             />
 
-            <div className="w-full flex justify-center py-3 tracking-tighter text-darkBlack text-2xl uppercase  font-Mohave ">
+            <div className="w-full flex justify-center py-3 tracking-tighter text-darkBlack text-2xl uppercase  font-roboto ">
               {actor.name} {actor.surname}
             </div>
           </div>

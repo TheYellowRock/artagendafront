@@ -12,7 +12,7 @@ export default function Footer() {
         <div className=" col-span-2 flex flex-col border-r-2 border-darkGrey">
           <div className="py-5 w-full flex justify-center">
             <Image
-              src={footer.logo.url}
+              src={`${process.env.NEXT_PUBLIC_MEDIA_STORAGE_BUCKET_URL}/${footer.logo.filename}`}
               alt="Art Agenda"
               width={footer.logo.width}
               height={footer.logo.height}

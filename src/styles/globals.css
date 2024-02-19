@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: Roboto;
   src: local('Roboto'), url(../../public/font/Roboto-Regular.ttf) format('ttf');
 }
 
 @font-face {
-  font-family: 'Mohave';
-  src: local('Mohave'), url(../../public//font//Mohave-Light.ttf) format('ttf');
+  font-family: Mohave;
+  src: local('Mohave'), url(../../public//font//Mohave-Regular.ttf) format('ttf');
 }

@@ -24,7 +24,9 @@ const config: Config = {
         "darkBlack":"#0a0a0a"
       },
       fontFamily: {
-        'sans': ['Roboto', 'Mohave', 'Arial', 'sans-serif']
+        'sans': ['var(--font-inter)'],
+        'roboto': ['Roboto'],
+        'mohave': [ 'Mohave']
       }
     },
   },
