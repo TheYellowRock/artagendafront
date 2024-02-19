@@ -1,0 +1,72 @@
+{
+  "addressLineOne": "Ul. Główna 10/1",
+  "addressLineTwo": "Kraków 20-300",
+  "contactPerson": [
+    {
+      "picture": {
+        "id": "65ced50747cb8857fa08b436",
+        "alt": "person one",
+        "filename": "photo.png",
+        "mimeType": "image/png",
+        "filesize": 47948,
+        "width": 180,
+        "height": 180,
+        "createdAt": "2024-02-16T03:22:47.496Z",
+        "updatedAt": "2024-02-16T03:22:47.496Z",
+        "url": "http://localhost:4000/media/photo.png"
+      },
+      "role": "Agentka",
+      "fullname": "Zosia Gebert",
+      "email": "zosia@artagenda.pl",
+      "phone": "+48 666 696 605",
+      "id": "65ce55243ed1ce24a63da7eb"
+    },
+    {
+      "picture": {
+        "id": "65ced51e47cb8857fa08b443",
+        "alt": "person two",
+        "filename": "photo1.png",
+        "mimeType": "image/png",
+        "filesize": 37408,
+        "width": 180,
+        "height": 180,
+        "createdAt": "2024-02-16T03:23:10.324Z",
+        "updatedAt": "2024-02-16T03:23:10.324Z",
+        "url": "http://localhost:4000/media/photo1.png"
+      },
+      "role": "Asystent Agentki",
+      "fullname": "Jan Kowalski",
+      "email": "jan@artagenda.pl",
+      "phone": "+48 666 696 605",
+      "id": "65ce55533ed1ce24a63da7ec"
+    }
+  ],
+  "globalType": "contact",
+  "createdAt": "2024-02-15T18:19:34.679Z",
+  "updatedAt": "2024-02-16T03:23:13.709Z",
+  "logo": {
+    "id": "65ce52011cb54b22d36fe183",
+    "alt": "Art Agenda",
+    "filename": "logo.png",
+    "mimeType": "image/png",
+    "filesize": 4085,
+    "width": 268,
+    "height": 47,
+    "createdAt": "2024-02-15T18:03:45.047Z",
+    "updatedAt": "2024-02-15T18:03:45.047Z",
+    "url": "http://localhost:4000/media/logo.png"
+  },
+  "metaLinks": [
+    {
+      "label": "Instagram",
+      "link": "/",
+      "id": "65ce87fc2176ed0be0a8a5ca"
+    },
+    {
+      "label": "Facebook",
+      "link": "/",
+      "id": "65ce88042176ed0be0a8a5cb"
+    }
+  ],
+  "id": "65ce55b61cb54b22d36fe1cc"
+}

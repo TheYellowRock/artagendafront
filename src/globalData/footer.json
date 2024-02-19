@@ -1,0 +1,51 @@
+{
+  "logo": {
+    "id": "65ceaa67d1c97c91435c80b3",
+    "filename": "logo1-1.png",
+    "mimeType": "image/png",
+    "filesize": 3574,
+    "width": 267,
+    "height": 48,
+    "createdAt": "2024-02-16T00:20:55.721Z",
+    "updatedAt": "2024-02-16T00:20:55.721Z",
+    "url": "http://localhost:4000/media/logo1-1.png"
+  },
+  "navlinks": [
+    {
+      "label": "Aktorzy",
+      "link": "/",
+      "id": "65ce53d53ed1ce24a63da7e5"
+    },
+    {
+      "label": "O agencji",
+      "link": "/",
+      "id": "65ce53e53ed1ce24a63da7e6"
+    },
+    {
+      "label": "Blog",
+      "link": "/",
+      "id": "65ce53ec3ed1ce24a63da7e7"
+    },
+    {
+      "label": "Kontakt",
+      "link": "/",
+      "id": "65ce53ef3ed1ce24a63da7e8"
+    }
+  ],
+  "metalinks": [
+    {
+      "label": "Instagram",
+      "link": "/",
+      "id": "65ce53f93ed1ce24a63da7e9"
+    },
+    {
+      "label": "Facebook",
+      "link": "/",
+      "id": "65ce54043ed1ce24a63da7ea"
+    }
+  ],
+  "globalType": "footer",
+  "createdAt": "2024-02-15T18:12:47.869Z",
+  "updatedAt": "2024-02-16T00:20:57.578Z",
+  "id": "65ce541f1cb54b22d36fe1b8"
+}

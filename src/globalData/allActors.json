@@ -1,0 +1,563 @@
+{
+  "docs": [
+    {
+      "id": "65ce2361e9570023a90c8467",
+      "name": "Marcin",
+      "surname": "Gaweł",
+      "category": "men",
+      "appearances": {
+        "age": 38,
+        "height": 183,
+        "eyesColor": "zielone"
+      },
+      "education": {
+        "degree": "AST WROCŁAW ",
+        "graduationYear": 2011,
+        "establishement": "Teatr Śląski im. Stanisława Wyspiańskiego w Katowicach "
+      },
+      "skills": {
+        "singing": "dobry",
+        "dance": "dobry",
+        "languages": "angielski - średniozaawansowany,  śląski - biegle ",
+        "others": "prawo jazdy kat B, pływanie, pedagog"
+      },
+      "images": [
+        {
+          "id": "65d0d0542f489309f4629088",
+          "filename": "marcingawel.png",
+          "mimeType": "image/png",
+          "filesize": 392170,
+          "width": 493,
+          "height": 634,
+          "createdAt": "2024-02-17T15:27:16.309Z",
+          "updatedAt": "2024-02-17T15:27:16.309Z",
+          "url": "http://localhost:4000/media/marcingawel.png"
+        },
+        {
+          "id": "65ce2100e9570023a90c8437",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Marcin GaweÅ portret.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 459270,
+          "width": 1000,
+          "height": 1499,
+          "createdAt": "2024-02-15T14:34:40.129Z",
+          "updatedAt": "2024-02-15T14:34:40.129Z",
+          "url": "http://localhost:4000/media/Marcin GaweÅ portret.jpg"
+        },
+        {
+          "id": "65ce2112e9570023a90c843b",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF2101.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 156979,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T14:34:58.651Z",
+          "updatedAt": "2024-02-15T14:34:58.651Z",
+          "url": "http://localhost:4000/media/DSCF2101.jpg"
+        },
+        {
+          "id": "65ce2120e9570023a90c843f",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF2127.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 430541,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T14:35:12.356Z",
+          "updatedAt": "2024-02-15T14:35:12.356Z",
+          "url": "http://localhost:4000/media/DSCF2127.jpg"
+        },
+        {
+          "id": "65ce216ce9570023a90c8443",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF2163.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 430924,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T14:36:28.238Z",
+          "updatedAt": "2024-02-15T14:36:28.238Z",
+          "url": "http://localhost:4000/media/DSCF2163.jpg"
+        },
+        {
+          "id": "65ce2179e9570023a90c8447",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF2174.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 471498,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T14:36:41.394Z",
+          "updatedAt": "2024-02-15T14:36:41.394Z",
+          "url": "http://localhost:4000/media/DSCF2174.jpg"
+        },
+        {
+          "id": "65ce2186e9570023a90c844b",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF2186.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 554047,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T14:36:54.451Z",
+          "updatedAt": "2024-02-15T14:36:54.451Z",
+          "url": "http://localhost:4000/media/DSCF2186.jpg"
+        },
+        {
+          "id": "65ce2198e9570023a90c844f",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF2192.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 570191,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T14:37:12.651Z",
+          "updatedAt": "2024-02-15T14:37:12.651Z",
+          "url": "http://localhost:4000/media/DSCF2192.jpg"
+        }
+      ],
+      "links": {
+        "filmpolski": "https://filmpolski.pl/fp/index.php?osoba=1161917",
+        "instagram": "https://www.instagram.com/marcin_gawel__?igsh=MXdxM2gwczJkaWN2MQ=="
+      },
+      "filmography": [
+        {
+          "id": "65ce22dae9570023a90c8455",
+          "year": "2023",
+          "work": "Hotel Korfanty (Teatr TV)",
+          "role": "powstaniec",
+          "createdAt": "2024-02-15T14:42:34.187Z",
+          "updatedAt": "2024-02-15T14:42:34.187Z"
+        },
+        {
+          "id": "65ce22fbe9570023a90c8458",
+          "year": "2023",
+          "work": "Krejzi patrol",
+          "createdAt": "2024-02-15T14:43:07.154Z",
+          "updatedAt": "2024-02-15T14:43:07.154Z"
+        },
+        {
+          "id": "65ce2311e9570023a90c845b",
+          "year": "2023",
+          "work": "Lokatorka II",
+          "role": "Filip",
+          "createdAt": "2024-02-15T14:43:29.044Z",
+          "updatedAt": "2024-02-15T14:43:29.044Z"
+        },
+        {
+          "id": "65ce232ee9570023a90c845e",
+          "year": "2023",
+          "work": "Na dobre i na złe",
+          "role": "Robert Maciak",
+          "createdAt": "2024-02-15T14:43:58.660Z",
+          "updatedAt": "2024-02-15T14:43:58.660Z"
+        },
+        {
+          "id": "65ce2343e9570023a90c8461",
+          "year": "2023",
+          "work": "Święto ognia",
+          "role": "dyrektor szkoły",
+          "createdAt": "2024-02-15T14:44:19.388Z",
+          "updatedAt": "2024-02-15T14:44:19.388Z"
+        },
+        {
+          "id": "65ce2357e9570023a90c8464",
+          "year": "2022",
+          "work": "Erynie",
+          "role": "Horst Gunia",
+          "createdAt": "2024-02-15T14:44:39.348Z",
+          "updatedAt": "2024-02-15T14:44:39.348Z"
+        }
+      ],
+      "createdAt": "2024-02-15T14:44:49.564Z",
+      "updatedAt": "2024-02-17T15:27:29.514Z"
+    },
+    {
+      "id": "65cde304e9570023a90c840a",
+      "name": "Ewelina",
+      "surname": "Zawada",
+      "category": "women",
+      "appearances": {
+        "age": 31,
+        "height": 172,
+        "eyesColor": "niebieski"
+      },
+      "education": {
+        "degree": "New York Film Academy Universal Studio w Los Angeles, Akademia Teatralna w Warszawie Filia w Białymstoku ",
+        "graduationYear": 2022.202
+      },
+      "skills": {
+        "instruments": "gitara - podstawowy",
+        "singing": "mezzosopran (ale też alt i sopran, mam 4,5 oktawy; półfinał w PPA)",
+        "dance": "balet i współczesny podstawowy",
+        "languages": "angielski - biegle (akcent amerykański), niemiecki - podstawowy"
+      },
+      "images": [
+        {
+          "id": "65d20e364ed0bfe00b201f83",
+          "filename": "ewelinazawada.png",
+          "mimeType": "image/png",
+          "filesize": 304207,
+          "width": 493,
+          "height": 674,
+          "createdAt": "2024-02-18T14:03:34.907Z",
+          "updatedAt": "2024-02-18T14:03:34.907Z",
+          "url": "http://localhost:4000/media/ewelinazawada.png"
+        },
+        {
+          "id": "65cde27ae9570023a90c83f9",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Ewelina Zawada2.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 354614,
+          "width": 1000,
+          "height": 1499,
+          "createdAt": "2024-02-15T10:07:54.790Z",
+          "updatedAt": "2024-02-15T10:07:54.790Z",
+          "url": "http://localhost:4000/media/Ewelina Zawada2.jpg"
+        },
+        {
+          "id": "65cde286e9570023a90c83fd",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Ewelina Zawada1.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 156612,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T10:08:06.629Z",
+          "updatedAt": "2024-02-15T10:08:06.629Z",
+          "url": "http://localhost:4000/media/Ewelina Zawada1.jpg"
+        },
+        {
+          "id": "65cde291e9570023a90c8401",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Ewelina Zawada portret.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 266431,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T10:08:17.710Z",
+          "updatedAt": "2024-02-15T10:08:17.710Z",
+          "url": "http://localhost:4000/media/Ewelina Zawada portret.jpg"
+        }
+      ],
+      "links": {
+        "youtube": "https://youtu.be/UQgArsjqfTM?si=6mt_jozrLUfZ17U7",
+        "filmpolski": "https://filmpolski.pl/fp/index.php?osoba=11171422",
+        "instagram": "https://www.instagram.com/_ewelina.zawada?igsh=ajN1Yzhwc205bDM4"
+      },
+      "filmography": [
+        {
+          "id": "65cde2fbe9570023a90c8407",
+          "year": "2023",
+          "work": "1670",
+          "role": "chłopka Ula",
+          "createdAt": "2024-02-15T10:10:03.482Z",
+          "updatedAt": "2024-02-15T10:10:03.482Z"
+        }
+      ],
+      "createdAt": "2024-02-15T10:10:12.058Z",
+      "updatedAt": "2024-02-18T14:03:44.825Z"
+    },
+    {
+      "id": "65cdde88e9570023a90c83ae",
+      "name": "Anna",
+      "surname": "Korzeniecka",
+      "category": "women",
+      "appearances": {
+        "age": 78,
+        "height": 162,
+        "eyesColor": "szare"
+      },
+      "education": {
+        "degree": "PWST w Warszawie ",
+        "graduationYear": 1961
+      },
+      "skills": {
+        "languages": "rosyjski - podstawowy",
+        "others": "prawo jazdy, robótki ręczne "
+      },
+      "images": [
+        {
+          "id": "65d20e9b4ed0bfe00b201fa2",
+          "filename": "annakorzeniecka.png",
+          "mimeType": "image/png",
+          "filesize": 407248,
+          "width": 493,
+          "height": 674,
+          "createdAt": "2024-02-18T14:05:15.231Z",
+          "updatedAt": "2024-02-18T14:05:15.231Z",
+          "url": "http://localhost:4000/media/annakorzeniecka.png"
+        },
+        {
+          "id": "65cddc2de9570023a90c8397",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Anna Korzeniecka portret.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 307141,
+          "width": 1000,
+          "height": 1499,
+          "createdAt": "2024-02-15T09:41:01.095Z",
+          "updatedAt": "2024-02-15T09:41:01.095Z",
+          "url": "http://localhost:4000/media/Anna Korzeniecka portret.jpg"
+        },
+        {
+          "id": "65cddc40e9570023a90c839b",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF3845-Edit_m.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 323471,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T09:41:20.603Z",
+          "updatedAt": "2024-02-15T09:41:20.603Z",
+          "url": "http://localhost:4000/media/DSCF3845-Edit_m.jpg"
+        },
+        {
+          "id": "65cddc4ee9570023a90c839f",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF3799-Edit_m.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 346024,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T09:41:34.296Z",
+          "updatedAt": "2024-02-15T09:41:34.296Z",
+          "url": "http://localhost:4000/media/DSCF3799-Edit_m.jpg"
+        }
+      ],
+      "links": {
+        "youtube": "https://youtube.com/shorts/E8KzN63zrpU?si=rt_0fiFxDpHxiORc",
+        "filmpolski": "https://filmpolski.pl/fp/index.php?osoba=1116526"
+      },
+      "filmography": [
+        {
+          "id": "65cddd05e9570023a90c83a2",
+          "year": "2023",
+          "work": "Infamia",
+          "role": "starsza kobieta w supermarkecie",
+          "createdAt": "2024-02-15T09:44:37.075Z",
+          "updatedAt": "2024-02-15T09:44:37.075Z"
+        },
+        {
+          "id": "65cdde48e9570023a90c83a5",
+          "year": "2023",
+          "work": "Informacja zwrotna",
+          "role": "lokatorka Stanisława Bednarek",
+          "createdAt": "2024-02-15T09:50:00.390Z",
+          "updatedAt": "2024-02-15T09:50:00.390Z"
+        },
+        {
+          "id": "65cdde68e9570023a90c83a8",
+          "year": "2023",
+          "work": "Zołza",
+          "role": "starsza pani",
+          "createdAt": "2024-02-15T09:50:32.392Z",
+          "updatedAt": "2024-02-15T09:50:32.392Z"
+        },
+        {
+          "id": "65cdde83e9570023a90c83ab",
+          "year": "2022",
+          "work": "Gang zielonej rękawiczki",
+          "role": "Teresa",
+          "createdAt": "2024-02-15T09:50:59.788Z",
+          "updatedAt": "2024-02-15T09:50:59.788Z"
+        }
+      ],
+      "createdAt": "2024-02-15T09:51:04.307Z",
+      "updatedAt": "2024-02-18T14:05:25.106Z"
+    },
+    {
+      "id": "65cdd518e9570023a90c8316",
+      "name": "Andrzej",
+      "surname": "Kłak",
+      "category": "men",
+      "appearances": {
+        "age": 41,
+        "height": 193,
+        "eyesColor": "piwne"
+      },
+      "education": {
+        "degree": "PWST Wrocław",
+        "graduationYear": 2008,
+        "establishement": "Teatr Powszechny w Warszawie"
+      },
+      "skills": {
+        "instruments": "Gitara, gitara basowa, pianino i kontrabas w stopniu podstawowym",
+        "languages": "rosyjski - podstawowy, angielski - podstawowy",
+        "others": "malarstwo, rysunek,  ceramika, prawo jazdy, pływanie"
+      },
+      "images": [
+        {
+          "id": "65d20eee4ed0bfe00b201fc1",
+          "filename": "andrzejklak.png",
+          "mimeType": "image/png",
+          "filesize": 433679,
+          "width": 493,
+          "height": 674,
+          "createdAt": "2024-02-18T14:06:38.681Z",
+          "updatedAt": "2024-02-18T14:06:38.681Z",
+          "url": "http://localhost:4000/media/andrzejklak.png"
+        },
+        {
+          "id": "65cdd3f8e9570023a90c8308",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Andrzej Klak portret.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 845381,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T09:06:00.864Z",
+          "updatedAt": "2024-02-15T09:06:00.864Z",
+          "url": "http://localhost:4000/media/Andrzej Klak portret.jpg"
+        },
+        {
+          "id": "65cdd414e9570023a90c830c",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "DSCF6750bws.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 2013752,
+          "width": 1500,
+          "height": 2250,
+          "createdAt": "2024-02-15T09:06:28.769Z",
+          "updatedAt": "2024-02-15T09:06:28.769Z",
+          "url": "http://localhost:4000/media/DSCF6750bws.jpg"
+        },
+        {
+          "id": "65cdd423e9570023a90c8310",
+          "filename": "DSCF6777s.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 441843,
+          "width": 1000,
+          "height": 1500,
+          "createdAt": "2024-02-15T09:06:43.936Z",
+          "updatedAt": "2024-02-15T09:06:43.936Z",
+          "url": "http://localhost:4000/media/DSCF6777s.jpg"
+        }
+      ],
+      "links": {
+        "filmpolski": "https://filmpolski.pl/fp/index.php?osoba=1154796"
+      },
+      "filmography": [
+        {
+          "id": "65cdd510e9570023a90c8313",
+          "year": "2024",
+          "work": "1670",
+          "role": "Andrzej Pobreża, sąsiad Jana Pawła",
+          "createdAt": "2024-02-15T09:10:40.953Z",
+          "updatedAt": "2024-02-15T09:10:40.953Z"
+        }
+      ],
+      "createdAt": "2024-02-15T09:10:48.398Z",
+      "updatedAt": "2024-02-18T14:06:52.463Z"
+    },
+    {
+      "id": "65cdce83e9570023a90c82c7",
+      "name": "Juliusz",
+      "surname": "Chrząstowski",
+      "category": "men",
+      "appearances": {
+        "age": 50,
+        "height": 189,
+        "eyesColor": "niebieskie"
+      },
+      "education": {
+        "degree": "PWST Wrocław ",
+        "graduationYear": 1996,
+        "establishement": "Narodowy Stary Teatr w Krakowie"
+      },
+      "skills": {
+        "singing": "tenor",
+        "dance": "współczesny",
+        "languages": "angielski  bardzo dobry, rosyjski podstawowy",
+        "others": "prawo jazdy, jazda konna, pływanie, koszykówka i siatkówka"
+      },
+      "images": [
+        {
+          "id": "65d20f494ed0bfe00b201fe0",
+          "filename": "julekchrzastowski.png",
+          "mimeType": "image/png",
+          "filesize": 271170,
+          "width": 495,
+          "height": 677,
+          "createdAt": "2024-02-18T14:08:09.919Z",
+          "updatedAt": "2024-02-18T14:08:09.919Z",
+          "url": "http://localhost:4000/media/julekchrzastowski.png"
+        },
+        {
+          "id": "65cdcd64e9570023a90c82b1",
+          "alt": "fot. Mikołaj Starzyński",
+          "filename": "Julek ChrzÄstowski portret.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 219737,
+          "width": 1077,
+          "height": 1413,
+          "createdAt": "2024-02-15T08:37:56.876Z",
+          "updatedAt": "2024-02-15T08:37:56.876Z",
+          "url": "http://localhost:4000/media/Julek ChrzÄstowski portret.jpg"
+        },
+        {
+          "id": "65cdcd8ae9570023a90c82b5",
+          "filename": "PWIL9531gs.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 180683,
+          "width": 1080,
+          "height": 1620,
+          "createdAt": "2024-02-15T08:38:34.670Z",
+          "updatedAt": "2024-02-15T08:38:34.670Z",
+          "url": "http://localhost:4000/media/PWIL9531gs.jpg"
+        },
+        {
+          "id": "65cdcd99e9570023a90c82b9",
+          "filename": "PWIL9534gs.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 154667,
+          "width": 1080,
+          "height": 1620,
+          "createdAt": "2024-02-15T08:38:49.353Z",
+          "updatedAt": "2024-02-15T08:38:49.353Z",
+          "url": "http://localhost:4000/media/PWIL9534gs.jpg"
+        },
+        {
+          "id": "65cdcdbde9570023a90c82bd",
+          "filename": "PWIL9655gs-1.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 157955,
+          "width": 1080,
+          "height": 720,
+          "createdAt": "2024-02-15T08:39:25.623Z",
+          "updatedAt": "2024-02-15T08:39:33.051Z",
+          "url": "http://localhost:4000/media/PWIL9655gs-1.jpg"
+        }
+      ],
+      "links": {
+        "youtube": "https://youtu.be/9pzNASwPVbk?si=LYMwkxvHemxyGqcd",
+        "filmpolski": "https://filmpolski.pl/fp/index.php?osoba=1128158",
+        "instagram": "https://www.instagram.com/juliuszchrzastowski/?igsh=YmYxNmpicTAwdnoy&fbclid=IwAR2dqRQeiw_VoLxxUrJ_AqS2d2U8ZG46Q1SjQxgJcftFGId4HHDTbXZYKrY"
+      },
+      "filmography": [
+        {
+          "id": "65cdce7ae9570023a90c82c4",
+          "year": "2024",
+          "work": "Biała odwaga",
+          "role": "Zawrat, ojciec Andrzeja i Maćka",
+          "createdAt": "2024-02-15T08:42:34.454Z",
+          "updatedAt": "2024-02-15T08:42:34.454Z"
+        }
+      ],
+      "createdAt": "2024-02-15T08:42:43.728Z",
+      "updatedAt": "2024-02-18T14:08:19.575Z"
+    }
+  ],
+  "totalDocs": 5,
+  "limit": 10,
+  "totalPages": 1,
+  "page": 1,
+  "pagingCounter": 1,
+  "hasPrevPage": false,
+  "hasNextPage": false,
+  "prevPage": null,
+  "nextPage": null
+}

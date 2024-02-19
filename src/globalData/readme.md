@@ -1,0 +1,1 @@
+This folder contain initial global data

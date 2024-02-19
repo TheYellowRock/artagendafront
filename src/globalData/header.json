@@ -1,0 +1,62 @@
+{
+  "logo": {
+    "id": "65ce52011cb54b22d36fe183",
+    "alt": "Art Agenda",
+    "filename": "logo.png",
+    "mimeType": "image/png",
+    "filesize": 4085,
+    "width": 268,
+    "height": 47,
+    "createdAt": "2024-02-15T18:03:45.047Z",
+    "updatedAt": "2024-02-15T18:03:45.047Z",
+    "url": "http://localhost:4000/media/logo.png"
+  },
+  "navlinks": [
+    {
+      "label": "Aktorzy",
+      "link": "/",
+      "id": "65ce52063ed1ce24a63da7dc"
+    },
+    {
+      "label": "O agencji",
+      "link": "/",
+      "id": "65ce52373ed1ce24a63da7dd"
+    },
+    {
+      "label": "Blog",
+      "link": "/",
+      "id": "65ce52d13ed1ce24a63da7de"
+    },
+    {
+      "label": "Kontakt",
+      "link": "/",
+      "id": "65ce52ef3ed1ce24a63da7df"
+    }
+  ],
+  "submenu": [
+    {
+      "label": "Wszyczy",
+      "link": "/",
+      "id": "65ce53123ed1ce24a63da7e1"
+    },
+    {
+      "label": "Aktorki",
+      "link": "/",
+      "id": "65ce534a3ed1ce24a63da7e2"
+    },
+    {
+      "label": "Aktorzy",
+      "link": "/",
+      "id": "65ce535b3ed1ce24a63da7e3"
+    },
+    {
+      "label": "Młodzi",
+      "link": "/",
+      "id": "65ce53753ed1ce24a63da7e4"
+    }
+  ],
+  "globalType": "header",
+  "createdAt": "2024-02-15T18:10:18.404Z",
+  "updatedAt": "2024-02-15T18:10:47.797Z",
+  "id": "65ce538a1cb54b22d36fe18b"
+}
