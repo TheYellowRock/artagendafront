@@ -7,7 +7,7 @@ export default function ActorsGrid() {
   return (
     <div className="grid grid-cols-3 bg-white">
       {allActors.docs.map((actor) => (
-        <Link href={`/actors/${actor.id}`}>
+        <Link key={actor.id} href={`/actors/${actor.id}`}>
           <div className="w-full py-10 px-2">
             <Image
               className="flex mx-auto"

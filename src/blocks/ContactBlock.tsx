@@ -10,7 +10,7 @@ export default function ContactBlock() {
         <div className=' text-6xl text-darkBlack py-20'> KONTAKT </div>
         <div className='grid grid-cols-3 items-center pb-20 border-b-2 border-darlGrey'>
             {contact.contactPerson.map((person) =>(
-                <div className='flex flex-row '>
+                <div key={person.id} className='flex flex-row '>
                     <Image src={person.picture.url} alt={person.picture.alt} width={person.picture.width} height={person.picture.height} />
                     <div className='flex flex-col p-5'>
                         <div className=' uppercase font-semibold text-darlGrey'>{person.role}</div>
@@ -29,7 +29,7 @@ export default function ContactBlock() {
         <div className='w-full flex flex-col py-20'>
             <Image className='flex flex-row mx-auto py-5' src={contact.logo.url} alt={contact.logo.alt} width={contact.logo.width} height={contact.logo.height} />
             {contact.metaLinks.map((link) =>(
-                <Link className='flex flex-row justify-center text-darkBlack py-2' href={link.link}>{link.label}</Link>
+                <Link key={link.id} className='flex flex-row justify-center text-darkBlack py-2' href={link.link}>{link.label}</Link>
             ))}
         </div>
       </div>

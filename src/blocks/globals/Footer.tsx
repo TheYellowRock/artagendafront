@@ -19,7 +19,7 @@ export default function Footer() {
             />
           </div>
           {footer.metalinks.map((item) => (
-            <Link className="py-1 w-full flex justify-center" href={item.link}>
+            <Link key={item.id} className="py-1 w-full flex justify-center" href={item.link}>
               {item.label}
             </Link>
           ))}
@@ -27,7 +27,7 @@ export default function Footer() {
         <div className="flex flex-col w-full px-10 border-r-2 border-darkGrey">
           <div className="text-beige font-semibold py-3">Menu główne</div>
           {footer.navlinks.map((item) => (
-            <Link className="py-1" href={item.link}>
+            <Link key={item.id} className="py-1" href={item.link}>
               {item.label}
             </Link>
           ))}
@@ -36,7 +36,7 @@ export default function Footer() {
           <div className="text-beige font-semibold py-3">Kontakt</div>
           <div className="grid grid-cols-3">
             {contact.contactPerson.map((person) => (
-              <div className="flex flex-col">
+              <div key={person.id} className="flex flex-col">
                 <div className=" text-lightGrey uppercase py-2">
                   {person.role}
                 </div>
