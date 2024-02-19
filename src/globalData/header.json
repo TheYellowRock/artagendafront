@@ -29,7 +29,7 @@
     },
     {
       "label": "Kontakt",
-      "link": "/",
+      "link": "/contact",
       "id": "65ce52ef3ed1ce24a63da7df"
     }
   ],
@@ -57,6 +57,6 @@
   ],
   "globalType": "header",
   "createdAt": "2024-02-15T18:10:18.404Z",
-  "updatedAt": "2024-02-19T04:04:54.212Z",
+  "updatedAt": "2024-02-19T05:40:08.885Z",
   "id": "65ce538a1cb54b22d36fe18b"
 }

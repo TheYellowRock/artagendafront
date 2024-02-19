@@ -5,9 +5,9 @@ import Link from 'next/link'
 
 export default function ContactBlock() {
   return (
-    <div className='w-full bg-white'>
+    <div className='w-full bg-white font-roboto'>
       <div className='flex flex-col w-3/4 mx-auto'>
-        <div className=' text-6xl text-darkBlack py-20'> KONTAKT </div>
+        <div className=' text-6xl text-darkBlack font-roboto py-20'> KONTAKT </div>
         <div className='grid grid-cols-3 items-center pb-20 border-b-2 border-darlGrey'>
             {contact.contactPerson.map((person) =>(
                 <div key={person.id} className='flex flex-row '>
