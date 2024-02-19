@@ -196,6 +196,18 @@
       },
       "images": [
         {
+          "id": "65d2da4d50e66497b973d5d4",
+          "alt": "Ewelina",
+          "filename": "Ewelina.png",
+          "mimeType": "image/png",
+          "filesize": 301550,
+          "width": 493,
+          "height": 634,
+          "createdAt": "2024-02-19T04:34:21.818Z",
+          "updatedAt": "2024-02-19T04:34:21.818Z",
+          "url": "http://localhost:4000/media/Ewelina.png"
+        },
+        {
           "id": "65d20e364ed0bfe00b201f83",
           "filename": "ewelinazawada.png",
           "mimeType": "image/png",
@@ -259,7 +271,7 @@
         }
       ],
       "createdAt": "2024-02-15T10:10:12.058Z",
-      "updatedAt": "2024-02-18T14:03:44.825Z"
+      "updatedAt": "2024-02-19T04:34:31.043Z"
     },
     {
       "id": "65cdde88e9570023a90c83ae",
@@ -391,6 +403,18 @@
       },
       "images": [
         {
+          "id": "65d2db099cb148417b5e1f43",
+          "alt": "Andzrej",
+          "filename": "Andzrej-1.png",
+          "mimeType": "image/png",
+          "filesize": 431787,
+          "width": 493,
+          "height": 634,
+          "createdAt": "2024-02-19T04:37:29.430Z",
+          "updatedAt": "2024-02-19T04:37:36.753Z",
+          "url": "http://localhost:4000/media/Andzrej-1.png"
+        },
+        {
           "id": "65d20eee4ed0bfe00b201fc1",
           "filename": "andrzejklak.png",
           "mimeType": "image/png",
@@ -451,7 +475,7 @@
         }
       ],
       "createdAt": "2024-02-15T09:10:48.398Z",
-      "updatedAt": "2024-02-18T14:06:52.463Z"
+      "updatedAt": "2024-02-19T04:38:14.465Z"
     },
     {
       "id": "65cdce83e9570023a90c82c7",

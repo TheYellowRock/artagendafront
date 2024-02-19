@@ -1,4 +1,5 @@
 import ActorDetails from "@/components/actorPage/ActorDetails";
+import Filmography from "@/components/actorPage/Filmography";
 import Videos from "@/components/actorPage/Videos";
 import axios from "axios";
 
@@ -10,6 +11,7 @@ export default function actors({actor}:{actor : any} ) {
     <div>
       <ActorDetails actor={actor} />
       <Videos />
+      <Filmography actor={actor}/>
     </div>
   )
 }

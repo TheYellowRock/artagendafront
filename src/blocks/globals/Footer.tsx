@@ -19,38 +19,38 @@ export default function Footer() {
             />
           </div>
           {footer.metalinks.map((item) => (
-            <Link key={item.id} className="py-1 w-full flex justify-center" href={item.link}>
+            <Link key={item.id} className="py-1 w-full flex justify-center font-roboto text-white" href={item.link}>
               {item.label}
             </Link>
           ))}
         </div>
         <div className="flex flex-col w-full px-10 border-r-2 border-darkGrey">
-          <div className="text-beige font-semibold py-3">Menu główne</div>
+          <div className="text-beige font-roboto text-sm font-semibold py-3">Menu główne</div>
           {footer.navlinks.map((item) => (
-            <Link key={item.id} className="py-1" href={item.link}>
+            <Link key={item.id} className="py-1 text-white text-sm font-roboto" href={item.link}>
               {item.label}
             </Link>
           ))}
         </div>
         <div className="col-span-3 flex flex-col w-full px-10 ">
-          <div className="text-beige font-semibold py-3">Kontakt</div>
+          <div className="text-beige font-roboto text-sm font-semibold py-3">Kontakt</div>
           <div className="grid grid-cols-3">
             {contact.contactPerson.map((person) => (
               <div key={person.id} className="flex flex-col">
-                <div className=" text-lightGrey uppercase py-2">
+                <div className=" text-lightGrey font-roboto text-sm uppercase py-2">
                   {person.role}
                 </div>
-                <div className="">{person.fullname}</div>
-                <div className="">{person.phone}</div>
-                <div className="">{person.email}</div>
+                <div className="py-1 text-white text-sm font-roboto">{person.fullname}</div>
+                <div className="py-1 text-white text-sm font-roboto">{person.phone}</div>
+                <div className="py-1 text-white text-sm font-roboto">{person.email}</div>
               </div>
             ))}
             <div className="flex flex-col">
-              <div className=" text-lightGrey uppercase py-2">
+              <div className=" text-lightGrey  font-roboto text-sm uppercase py-2">
                 Adres korespondencyjny
               </div>
-              <div className="">{contact.addressLineOne}</div>
-              <div className="">{contact.addressLineTwo}</div>
+              <div className="py-1 text-white text-sm font-roboto">{contact.addressLineOne}</div>
+              <div className="py-1 text-white text-sm font-roboto">{contact.addressLineTwo}</div>
             </div>
           </div>
         </div>

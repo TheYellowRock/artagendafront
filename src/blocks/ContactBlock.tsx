@@ -11,7 +11,7 @@ export default function ContactBlock() {
         <div className='grid grid-cols-3 items-center pb-20 border-b-2 border-darlGrey'>
             {contact.contactPerson.map((person) =>(
                 <div key={person.id} className='flex flex-row '>
-                    <Image src={`${process.env.NEXT_PUBLIC_MEDIA_STORAGE_BUCKET_URL}/${person.picture.filename}`} alt={person.picture.alt} width={person.picture.width} height={person.picture.height} />
+                    <Image src={`${process.env.NEXT_PUBLIC_MEDIA_STORAGE_BUCKET_URL}/${person.picture.filename}`} alt={person.picture.alt || ""} width={person.picture.width} height={person.picture.height} />
                     <div className='flex flex-col p-5'>
                         <div className=' uppercase font-semibold text-darlGrey'>{person.role}</div>
                         <div className='text-3xl text-darkBlack pb-3'>{person.fullname}</div>

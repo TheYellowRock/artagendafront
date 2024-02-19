@@ -1,14 +1,15 @@
 {
   "logo": {
-    "id": "65ceaa67d1c97c91435c80b3",
-    "filename": "logo1-1.png",
+    "id": "65d2d37b50e66497b973d4fb",
+    "alt": "logo",
+    "filename": "logowhite.png",
     "mimeType": "image/png",
     "filesize": 3574,
     "width": 267,
     "height": 48,
-    "createdAt": "2024-02-16T00:20:55.721Z",
-    "updatedAt": "2024-02-16T00:20:55.721Z",
-    "url": "http://localhost:4000/media/logo1-1.png"
+    "createdAt": "2024-02-19T04:05:15.545Z",
+    "updatedAt": "2024-02-19T04:05:15.545Z",
+    "url": "http://localhost:4000/media/logowhite.png"
   },
   "navlinks": [
     {
@@ -46,6 +47,6 @@
   ],
   "globalType": "footer",
   "createdAt": "2024-02-15T18:12:47.869Z",
-  "updatedAt": "2024-02-16T00:20:57.578Z",
+  "updatedAt": "2024-02-19T04:05:20.518Z",
   "id": "65ce541f1cb54b22d36fe1b8"
 }
